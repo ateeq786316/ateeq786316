@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ateeq786316" alt="ateeq786316" /></a> </p>
 
-- 🔭 I’m currently working on **[AI-Powered E-Book Writer]- Revolutionizing content creation with Gemini AI**
+- 🔭 I’m currently working on **[ZaikaExpress]- Revolutionizing app for favourite food in TRAIN**
 
 - 💬 Ask me about **React Native projects, AI integrations, MERN Stack**
 
