@@ -1,9 +1,9 @@
 <h1 align="center">Salaam, I'm ATEEQ!!</h1>
 <h3 align="center">Passionate MERN & React Native Developer from Pakistan</h3>
 
-<p align="left">   </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ateeq786316&label=Profile%20views&color=0e75b6&style=flat" alt="ateeq786316" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="30" height="30" alt="file_00000000e48461fd9b97169536fb424d" src="https://github.com/user-attachments/assets/4c4b3ae4-927d-4f27-9ec0-e1009d2e7793" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ateeq786316" alt="ateeq786316" /></a> </p>
 
 - 🔭 I’m currently working on **[ZaikaExpress]- Revolutionizing app for favourite food in TRAIN**
 
