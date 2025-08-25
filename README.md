@@ -1,7 +1,7 @@
 <h1 align="center">Salaam, I'm ATEEQ!!</h1>
 <h3 align="center">Passionate MERN & React Native Developer from Pakistan</h3>
 
-<p align="left"> <img width="589" height="883" alt="file_00000000e48461fd9b97169536fb424d" src="https://github.com/user-attachments/assets/4c4b3ae4-927d-4f27-9ec0-e1009d2e7793" />  </p>
+<p align="left"> <img width="20" height="20" alt="file_00000000e48461fd9b97169536fb424d" src="https://github.com/user-attachments/assets/4c4b3ae4-927d-4f27-9ec0-e1009d2e7793" />  </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ateeq786316" alt="ateeq786316" /></a> </p>
 
